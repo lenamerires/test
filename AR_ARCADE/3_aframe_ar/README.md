@@ -10,6 +10,6 @@
 
 
 #### ressources
-* [image marker demo (pattern ratio 0.75)](./assets/images/lena.png)
-* [pdf marker demo (pattern ratio 0.75)](./assets/lena.pdf)
+* [image marker lena (pattern ratio 0.75)](./assets/images/lena.png)
+* [pdf marker lena (pattern ratio 0.75)](./assets/patterns/lena.pdf)
 * [qr code generator](https://www.qr-code-generator.com/)
