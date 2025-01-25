@@ -15,13 +15,13 @@
 
         <!-- Préchargement des ressources -->
         <a-assets timeout="5000" loading-indicator>
-            <a-asset-item id="objModel" src="./assets/3Dmodels/demo.obj"></a-asset-item>
-            <a-asset-item id="mtlModel" src="./assets/3Dmodels/demo.mtl"></a-asset-item>
+            <a-asset-item id="objModel" src="./assets/3Dmodels/lena.obj"></a-asset-item>
+            <!-- <a-asset-item id="mtlModel" src="./assets/3Dmodels/demo.mtl"></a-asset-item> -->
         </a-assets>
 
 
         <!-- Utilisation du modèle 3D préchargé -->
-        <a-obj-model src="#objModel" mtl="#mtlModel" 
+        <a-obj-model src="#objModel" 
         position="0 0 -1" scale="0.1 0.1 0.1" rotation="0 -75 0">
         </a-obj-model>
         <!-- Repère des axes en position (0, 0.5, -2) -->
