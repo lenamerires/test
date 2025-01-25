@@ -5,7 +5,7 @@
 #### liens
 * [0_marker (pattern ratio 0.75)](./0_marker_lena.html)
 * [1_href_direct](./1_href_direct_lena.html)
-* [2_href_primitive](./2_href_primitive.html)
+* [2_href_primitive](./2_href_primitive_lena.html)
 * [3_href_3Dmodel](./3_href_3Dmodel.html)
 
 
